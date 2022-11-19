@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineCocoa",
+        "repositoryURL": "https://github.com/CombineCommunity/CombineCocoa.git",
+        "state": {
+          "branch": "main",
+          "revision": "1a1821995b49c05032980554fc5c3f1204d53076",
+          "version": null
+        }
+      },
+      {
+        "package": "Resolver",
+        "repositoryURL": "https://github.com/hmlongco/Resolver.git",
+        "state": {
+          "branch": "master",
+          "revision": "4d2f11269f14c0a91ed52b2662c9c7db6f7f8e60",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
